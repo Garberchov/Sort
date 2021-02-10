@@ -19,7 +19,7 @@ h.pack()
 
 j = Entry(root, width=100)
 j.pack()
-
+ 
 def myClick():
     list.append(int(e.get()))
     list.append(int(f.get()))
